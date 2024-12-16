@@ -13,7 +13,9 @@
 
 - **Software Developer at BUILD UMass**
 
----
+## My Github Stats
+[![Riddhimaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riddhimaan-Senapati)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## ⚙️ Technical Skills
 
