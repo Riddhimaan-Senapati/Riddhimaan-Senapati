@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi!+I'm+Riddhimaan!; )](https://git.io/typing-svg)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riddhimaan-senapati/)
+[![Devpost Badge](https://img.shields.io/badge/-Devpost-000000?style=flat-square&logo=Devpost&logoColor=white)](https://devpost.com/Riddhimaan-Senapati)
 
  https://riddhimaan.com
 
