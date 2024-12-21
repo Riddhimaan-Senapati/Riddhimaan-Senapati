@@ -5,11 +5,6 @@
 
  https://riddhimaan.com
 
-**Software Developer |Machine Learning & AI Enthusiast |**
-
-
----
-
 ## 👨‍💻 Professional Experience
   
 - **Software Developer Intern at LTI MindTree**  
@@ -68,7 +63,6 @@
 - Artificial Intelligence and Machine Learning applications in industry
 - Software Development
 
----
 
 
 ## 📫 Let's Connect
