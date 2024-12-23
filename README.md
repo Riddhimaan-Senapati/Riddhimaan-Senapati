@@ -7,9 +7,9 @@
 
 ## 👨‍💻 Professional Experience
   
-- **Software Developer Intern at LTI MindTree**  
-
-- **Software Developer at BUILD UMass**
+- **Software Developer Intern at LTI MindTree**(Dec 2023-Jan 2024)
+  
+- **Software Developer at BUILD UMass**(Oct 2024-Ongoing)
 
 ## My Github Stats
 [![Riddhimaan's GitHub stats](https://github-readme-stats-drab-zeta-42.vercel.app//api?username=Riddhimaan-Senapati)](https://github.com/anuraghazra/github-readme-stats)
