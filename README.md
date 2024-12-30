@@ -13,6 +13,7 @@
 
 ## My Github Stats
 [![Riddhimaan's GitHub stats](https://github-readme-stats-drab-zeta-42.vercel.app//api?username=Riddhimaan-Senapati)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Riddhimaan-Senapati)](https://git.io/streak-stats)
 
 
 ## ⚙️ Technical Skills
