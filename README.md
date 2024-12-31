@@ -4,6 +4,8 @@
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-000000?style=flat-square&logo=Leetcode)](https://leetcode.com/u/Riddhimaan_Senapati/)
 
  https://riddhimaan.com
+ 
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=Riddhimaan-Senapati&style=for-the-badge&color=green)
 
 ## 👨‍💻 Professional Experience
   
