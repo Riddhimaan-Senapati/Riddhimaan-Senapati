@@ -5,7 +5,6 @@
 
  https://riddhimaan.com
  
- ![Profile View Counter](https://komarev.com/ghpvc/?username=Riddhimaan-Senapati&style=for-the-badge&color=green)
 
 ## 👨‍💻 Professional Experience
   
