@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi!+I'm+Riddhimaan!;+software+developer;+AI/ML+enthusiast)](https://git.io/typing-svg)
-![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat-square)
+[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/riddhimaan-senapati/)
 [![Devpost Badge](https://img.shields.io/badge/-Devpost-000000?style=flat-square&logo=Devpost&logoColor=white)](https://devpost.com/Riddhimaan-Senapati)
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-000000?style=flat-square&logo=Leetcode)](https://leetcode.com/u/Riddhimaan_Senapati/)
 
