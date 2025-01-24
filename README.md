@@ -19,7 +19,6 @@
 [![GitHub Streak Dark](https://streak-stats.demolab.com?user=Riddhimaan-Senapati&theme=radical#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 [![GitHub Streak Light](https://streak-stats.demolab.com?user=Riddhimaan-Senapati&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Riddhimaan-Senapati)](https://git.io/streak-stats)
 
 
 ## ⚙️ Technical Skills
