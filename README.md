@@ -20,7 +20,12 @@
 [![GitHub Streak Light](https://github-readme-streak-stats-opal-kappa.vercel.app/?user=Riddhimaan-Senapati&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 
+## 🎓 Certifications
 
+- **AWS Certified Cloud Practitioner**  
+  ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white)  
+  - [Certificate](https://www.credly.com/badges/c6b05266-8415-452c-a136-78bbec3697aa/)
+  
 ## ⚙️ Technical Skills
 
 ### Languages
@@ -56,6 +61,7 @@
 
 ### Tools & Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
