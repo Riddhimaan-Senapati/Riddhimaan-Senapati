@@ -16,8 +16,8 @@
 [![Riddhimaan's GitHub stats-Dark](https://github-readme-stats-drab-zeta-42.vercel.app/api?username=Riddhimaan-Senapati&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Riddhimaan's GitHub stats-Light](https://github-readme-stats-drab-zeta-42.vercel.app/api?username=Riddhimaan-Senapati&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Streak Dark](https://github-readme-streak-stats-opal-kappa.vercel.app/?user=Riddhimaan-Senapati&theme=radical#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak Light](https://github-readme-streak-stats-opal-kappa.vercel.app/?user=Riddhimaan-Senapati&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak Dark](https://streak-stats.demolab.com/?user=Riddhimaan-Senapati&theme=radical#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak Light](https://streak-stats.demolab.com/?user=Riddhimaan-Senapati&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 
 ## 🎓 Certifications
