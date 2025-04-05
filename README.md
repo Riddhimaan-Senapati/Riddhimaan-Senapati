@@ -11,6 +11,8 @@
 - **Software Developer Intern at LTI MindTree**(Dec 2023-Jan 2024)
   
 - **Software Developer at BUILD UMass**(Oct 2024-Ongoing)
+  
+- **AI for Commonwealth Intern at PIT UMass**(April 2025-Ongoing)
 
 ## My Github Stats
 [![Riddhimaan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Riddhimaan-Senapati&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
