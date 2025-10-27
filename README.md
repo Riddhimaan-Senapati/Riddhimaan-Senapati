@@ -24,9 +24,13 @@
 
 ## 🎓 Certifications
 
+- **AWS Certified AI Practitioner**  
+  ![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white)  
+  - [Certificate](https://www.credly.com/badges/42ee21f3-762c-478f-a83c-4e16a6aabfdc/public_url)
+
 - **AWS Certified Cloud Practitioner**  
   ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white)  
-  - [Certificate](https://www.credly.com/badges/c6b05266-8415-452c-a136-78bbec3697aa/)
+  - [Certificate](https://www.credly.com/badges/c6b05266-8415-452c-a136-78bbec3697aa/public_url)
   
 ## ✅ Technical Skills
 
