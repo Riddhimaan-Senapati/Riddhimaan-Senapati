@@ -7,7 +7,7 @@
  
 
 ## 👨‍💻 Professional Experience
-- **Research Extern @ Graphite Growth Inc**(Feb 2026-Ongoing)
+- **Research Intern @ Graphite Growth Inc**(Feb 2026-Ongoing)
 
 - **AI for Commonwealth(AI4CW) Intern @ Commonwealth of Massachusetts**(April 2025-September 2025)
   
