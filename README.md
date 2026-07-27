@@ -13,18 +13,6 @@
 - **Full Stack Software Developer @ BUILD UMass** (Sep 2024 – Dec 2025)
 - **AI/ML Intern @ LTIMindtree** (Dec 2023 – Jan 2024)
 
-## My Github Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-drab-zeta-42.vercel.app/api?username=Riddhimaan-Senapati&show_icons=true&theme=radical">
-  <img alt="Riddhimaan's GitHub stats" src="https://github-readme-stats-drab-zeta-42.vercel.app/api?username=Riddhimaan-Senapati&show_icons=true&theme=default">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-opal-kappa.vercel.app/?user=Riddhimaan-Senapati&theme=radical">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats-opal-kappa.vercel.app/?user=Riddhimaan-Senapati&theme=default">
-</picture>
-
 ## 🎓 Certifications
 
 - **AWS Certified AI Practitioner**  
